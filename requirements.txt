@@ -1,0 +1,6 @@
+# Projetos Python com Tkinter
+# Tkinter já vem incluso na instalação padrão do Python
+# Para instalar o Python: https://www.python.org/downloads/
+
+# Se necessário instalar tkinter no Linux:
+# sudo apt-get install python3-tk
